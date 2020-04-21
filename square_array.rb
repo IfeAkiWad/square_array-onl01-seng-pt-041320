@@ -3,6 +3,7 @@ new_array = []
   array.each{ |num|
     new_array << num**
   }
+  new_array
 end
 
 
